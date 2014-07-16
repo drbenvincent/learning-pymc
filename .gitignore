@@ -1,2 +1,4 @@
 
 *.png
+
+.ipynb_checkpoints/linear_regression-checkpoint.ipynb
