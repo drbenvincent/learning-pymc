@@ -1,4 +1,20 @@
 
-*.png
-
 .ipynb_checkpoints/linear_regression-checkpoint.ipynb
+
+.ipynb_checkpoints/BayesEquation-checkpoint.ipynb
+
+c.png
+
+m.png
+
+mu.png
+
+x_pred.png
+
+y_pred_3.png
+
+y_pred_7.png
+
+y_pred_4.png
+
+y_pred_9.png
